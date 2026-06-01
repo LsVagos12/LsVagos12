@@ -1,9 +1,5 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&height=50&lines=LsVagos12%3A+Never Die;Leveling+up+my+coding+skills...;GG+WP!" alt="Typing SVG" />
-</a>
-
 <div align="center">
-  <img src="YtBanner.mp4" width="100%" alt="Banner Evolucion Gaming">
+  <video src="https://github.com/user-attachments/assets/badfd64c-3e00-46b7-a34a-a3bc49a63f27" width="100%" autoplay loop muted playsinline></video>
 </div>
 
 # 💫 About Me:
