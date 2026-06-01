@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&height=50&lines=LsVagos12%3A+Never Die;Leveling+up+my+coding+skills...;GG+WP!" alt="Typing SVG" />
 </a>
 
+<div align="center">
+  <img src="YtBanner" width="100%" alt="Banner Evolucion Gaming">
+</div>
 
 # 💫 About Me:
 ### 🎮 Player 1: [LsVagos] has joined the server!<br><br>I treat coding like a massive open-world RPG. Every bug is a boss fight, and every new technology learned is a skill unlocked. Developer by day, hardcore gamer by night. 🕹️<br><br>* 🔭 **Main Quest:** Currently building [cool websites / my portfolio]<br>* 🌱 **Grinding XP in:** [ IMMO 100 ]<br>* 👯 **LFG (Looking for Group):** SOLO SQUAD!<br>* 💬 **Ask me about:** SLEEP.<br>* ⚡ **Fun fact:** BANGUN, MAKAN, GAME ,NONTON, MANDI TIDUR LAGI. 🏆
