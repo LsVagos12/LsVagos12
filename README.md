@@ -21,5 +21,9 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/A) 
 
-  
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LsVagos12/LsVagos12/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LsVagos12/LsVagos12/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LsVagos12/LsVagos12/output/github-snake.svg">
+</picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
