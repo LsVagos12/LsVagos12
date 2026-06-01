@@ -3,7 +3,7 @@
 </a>
 
 <div align="center">
-  <img src="YtBanner" width="100%" alt="Banner Evolucion Gaming">
+  <img src="YtBanner.mp4" width="100%" alt="Banner Evolucion Gaming">
 </div>
 
 # 💫 About Me:
